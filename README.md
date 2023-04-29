@@ -19,8 +19,10 @@ Graduate from Faculty of Computers & Information at October 6 University
 - 🌱 I’m currently studing **Laravel**
 
 - I'm currently open for: **new job**
-
+- 
 - 📫 How to reach me **yousifhakel50@gmail.com**
+
+- 🐼 Doing my best
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
