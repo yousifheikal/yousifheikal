@@ -1,9 +1,9 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-<h1 align="center">Hi 👋, I'm Yousif Heikal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+, I'm Yousif Heikal</h1>
 <h3 align="center">A passionate Back-End Developer|PHP-Laravel</h3>
 
 <br>
