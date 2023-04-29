@@ -14,12 +14,9 @@
 🏫 I am a Computer Science Fresh
 Graduate from Faculty of Computers & Information at October 6 University
 
-- 🌱 I’m currently learning **Laravel**
-
-- 🌱 I’m currently studing **Laravel**
 
 - I'm currently open for: **new job**
-- 
+
 - 📫 How to reach me **yousifhakel50@gmail.com**
 
 - 🐼 Doing my best
