@@ -6,9 +6,6 @@
 <h1 align="center">Hi 👋, I'm Yousif Heikal</h1>
 <h3 align="center">A passionate Back-End Developer|PHP-Laravel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousifheikal&label=Profile%20views&color=0e75b6&style=flat" alt="yousifheikal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousifheikal" alt="yousifheikal" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
