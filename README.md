@@ -11,6 +11,8 @@
 <br>
 
 
+🏫 I am a Computer Science Fresh
+Graduate from Faculty of Computers & Information at October 6 University
 
 - 🌱 I’m currently learning **Laravel**
 
