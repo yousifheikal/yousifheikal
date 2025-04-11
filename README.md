@@ -15,13 +15,10 @@
 Graduate from Faculty of Computers & Information at October 6 University
 
 
-- I'm currently open for: **new job**
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me **yousifhakel50@gmail.com**
-
-- 🌱 I’m currently learning Laravel
+- 📫 How to reach me **youssefheikal00@gmail.com**
 
 - 🐼 Doing my best
 
