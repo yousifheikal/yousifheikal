@@ -11,7 +11,7 @@
 
 
 
-🏫 I am a Computer Science Mid-Level
+🏫 I am a Software Engineer
 Graduate from Faculty of Computers & Information at October 6 University
 
 
